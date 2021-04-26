@@ -6,12 +6,16 @@
 ### Purpose
 
 
-##Results
-
-![alt text](https://github.com/NENUKORAH/stock-analysis/main/Resources/VBA_Challenge_2017.png?raw=true)
+## Results
 
 
-##Summary
+
+![alt text](/Resources/VBA_Challenge_2017.png?raw=true)
+
+
+
+
+## Summary
 
 1. What are the advantages or disadvantages of refactoring code?
 

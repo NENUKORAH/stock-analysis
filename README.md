@@ -8,7 +8,7 @@
 
 ##Results
 
-![alt text](https://github.com/NENUKORAH/stock-analysis/blob/Main/VBA_Challenge_2017.png?raw=true)
+![alt text](https://github.com/NENUKORAH/stock-analysis/tree/main/Resources/VBA_Challenge_2017.png?raw=true)
 
 
 ##Summary
